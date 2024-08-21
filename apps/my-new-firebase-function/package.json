@@ -11,7 +11,10 @@
   "engines": {
     "node": "16"
   },
-  "dependencies": {},
+  "dependencies": {
+    "firebase": "^10.10.0",
+    "firebase-admin": "^11.11.1"
+  },
   "devDependencies": {},
   "private": true
 }
